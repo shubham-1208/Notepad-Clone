@@ -1,6 +1,5 @@
 # Notepad-Clone
 Made by: Shubham Mehra 
-Demo images:
 ![image](https://github.com/shubham-1208/Notepad-Clone/assets/87979238/e2cf4af5-cff5-4396-a1a6-9115c3716920)
 ![image](https://github.com/shubham-1208/Notepad-Clone/assets/87979238/62671068-e29c-45dc-b948-e9809073405f)
 ![image](https://github.com/shubham-1208/Notepad-Clone/assets/87979238/38e035b4-1050-40ad-82c1-4f90e962f8c7)
